@@ -12,6 +12,8 @@
 
 把分散的真题、音频和错题变成“练习 → 提交后反馈 → 错题回采 → 同类题回炉”的学习闭环。
 
+[亲手体验 60 秒脱敏交互样板 →](https://korey2028-prog.github.io/portfolio/demo/tem4-loop.html)
+
 `Web Product` `EdTech` `Local-first` `AI-assisted assessment`
 
 ### [Fitness OS →](https://korey2028-prog.github.io/portfolio/work/fitness-os.html)
