@@ -4,6 +4,8 @@
 
 英语专业背景，自学产品、因果推理与 AI 协作工程。我负责定义问题、设计系统与验收标准，再用 Claude Code、Codex、Skill 和自动化把想法推进成能运行、能验证的产品。
 
+**招聘速读：** [AI 产品简历版 →](https://korey2028-prog.github.io/portfolio/resume.html)
+
 ## 3 个代表作品
 
 ### [专四备考工作台 →](https://korey2028-prog.github.io/portfolio/work/tem4.html)
@@ -31,4 +33,4 @@
 3. 用 AI 协作加速执行，但由人掌握方向、边界与验收。
 4. 区分本地实现、测试通过、真机可用、公开发布与真实用户验证。
 
-完整作品集：[korey2028-prog.github.io/portfolio](https://korey2028-prog.github.io/portfolio/)
+完整作品集：[korey2028-prog.github.io/portfolio](https://korey2028-prog.github.io/portfolio/) · 联系邮箱：[korey2028@gmail.com](mailto:korey2028@gmail.com)
