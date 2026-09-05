@@ -10,12 +10,16 @@
 | --- | --- | --- |
 | [专四 60 秒交互 Demo →](https://korey2028-prog.github.io/portfolio/demo/tem4-loop.html) | [AI 产品简历版 →](https://korey2028-prog.github.io/portfolio/resume.html) | [打开作品集首页 →](https://korey2028-prog.github.io/portfolio/) |
 
+**优先体验：[Fitness OS 健康决策 Demo →](https://korey2028-prog.github.io/portfolio/demo/fitness-os.html)**
+
+切换恢复状态，查看建议依据，再模拟行动与复盘。合成数据，无需登录。
+
 ## 3 个代表产品
 
 | 产品 | 我解决的问题 | 当前证据 | 查看 |
 | --- | --- | --- | --- |
 | **专四备考工作台** | 把散落资料变成“练习 → 反馈 → 错题回采 → 同类题回炉” | 本地 Web 工作台；公开脱敏交互样板 | [体验 Demo](https://korey2028-prog.github.io/portfolio/demo/tem4-loop.html) · [完整案例](https://korey2028-prog.github.io/portfolio/work/tem4.html) |
-| **Fitness OS** | 把 HealthKit、训练、营养和恢复信号压缩成当日最小行动 | SwiftUI 真机运行；本地数据优先 | [查看案例](https://korey2028-prog.github.io/portfolio/work/fitness-os.html) |
+| **Fitness OS** | 把 HealthKit、训练、营养和恢复信号压缩成当日最小行动 | SwiftUI 真机运行；公开合成数据交互样板 | [体验 Demo](https://korey2028-prog.github.io/portfolio/demo/fitness-os.html) · [完整案例](https://korey2028-prog.github.io/portfolio/work/fitness-os.html) |
 | **DM 排练系统** | 把复杂剧本、页码证据和人物行动线编译成现场 Cue | 合成数据 Demo；212 页演员手册完成全页验收 | [查看 DM 手册案例](https://korey2028-prog.github.io/portfolio/work/dm-rehearsal.html#handbook) |
 
 ## 我能带来的能力
