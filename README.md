@@ -1,36 +1,55 @@
-# Korey｜AI 产品作品集
+# 王天如 Korey
 
-> 我把真实生活里的复杂问题，做成能运行、能验证的 AI 产品。
+**产品实践者｜内容创作者｜天津师范大学英语师范专业 2027 届本科生**
 
-英语专业背景，自学产品、因果推理与 AI 协作工程。我负责问题重构、产品设计、AI 协作开发和验收边界，让 AI 放大执行力，但不替代事实、判断与责任。
+我喜欢观察真实生活和工作中的小麻烦。遇到反复出现、能够通过反馈继续改进的问题，我会先把使用场景理清，再做成可以亲自使用的工具。
 
-## 先从这里看
+我做过健身教练、课程销售和剧本杀 DM，长期直接面对用户，也在持续制作自己的产品。目前主要关注工具型产品、AI 应用和内容产品。
 
-| ⚡ 亲手体验 | 📄 招聘速读 | 🌐 完整作品集 |
-| --- | --- | --- |
-| [专四 60 秒交互 Demo →](https://korey2028-prog.github.io/portfolio/demo/tem4-loop.html) | [AI 产品简历版 →](https://korey2028-prog.github.io/portfolio/resume.html) | [打开作品集首页 →](https://korey2028-prog.github.io/portfolio/) |
+[完整作品集](https://korey2028-prog.github.io/portfolio/) · [邮箱联系](mailto:korey2028@gmail.com)
 
-**优先体验：[Fitness OS 健康决策 Demo →](https://korey2028-prog.github.io/portfolio/demo/fitness-os.html)**
+## 先看这 3 个项目
 
-切换恢复状态，查看建议依据，再模拟行动与复盘。合成数据，无需登录。
-
-## 3 个代表产品
-
-| 产品 | 我解决的问题 | 当前证据 | 查看 |
+| 项目 | 我在解决什么问题 | 我负责什么 | 直接查看 |
 | --- | --- | --- | --- |
-| **专四备考工作台** | 把散落资料变成“练习 → 反馈 → 错题回采 → 同类题回炉” | 本地 Web 工作台；公开脱敏交互样板 | [体验 Demo](https://korey2028-prog.github.io/portfolio/demo/tem4-loop.html) · [完整案例](https://korey2028-prog.github.io/portfolio/work/tem4.html) |
-| **Fitness OS** | 把 HealthKit、训练、营养和恢复信号压缩成当日最小行动 | SwiftUI 真机运行；公开合成数据交互样板 | [体验 Demo](https://korey2028-prog.github.io/portfolio/demo/fitness-os.html) · [完整案例](https://korey2028-prog.github.io/portfolio/work/fitness-os.html) |
-| **DM 排练系统** | 把复杂剧本、页码证据和人物行动线编译成现场 Cue | 合成数据 Demo；212 页演员手册完成全页验收 | [查看 DM 手册案例](https://korey2028-prog.github.io/portfolio/work/dm-rehearsal.html#handbook) |
+| **Fitness OS** | 训练、饮食和身体状态分散，记录后也难以回看 | 项目发起、功能规划、信息结构和交互设计 | [打开公开网页版](https://fitness-os-korey.korey2028798753.chatgpt.site) · [阅读案例](https://korey2028-prog.github.io/portfolio/work/fitness-os.html) |
+| **专四备考工作台** | 备考资料分散，练习后缺少及时反馈和错题回看 | 需求梳理、功能设计、首位使用者 | [打开工作台](https://korey-tem4-workbench.korey2028798753.chatgpt.site) · [阅读案例](https://korey2028-prog.github.io/portfolio/work/tem4.html) |
+| **DM 角色手册** | DM 备场资料多，上场时难以快速找到时机、动作和台词 | 资料组织、使用流程设计和网页展示 | [打开手册展示](https://korey-dm-handbook.korey2028798753.chatgpt.site) · [阅读案例](https://korey2028-prog.github.io/portfolio/work/dm-rehearsal.html) |
 
-## 我能带来的能力
+### Fitness OS
 
-- **把模糊问题变成产品结构：** 明确用户现场、成功信号、约束和不可接受的代价。
-- **把 AI 放进可审查的系统：** 区分数据、规则、模型解释、人工判断与失败恢复。
-- **把“做出来”和“验证过”分开：** 明确本地实现、测试通过、真机可用、公开发布与真实用户验证。
-- **跨领域迁移：** 已把同一套产品方法应用到学习、健康和复杂内容协作。
+从训练记录和教练工作中的实际需求出发，规划“今天、记录、历史、复盘”四个页面入口，集中呈现训练、饮食和身体状态。设计输入、确认和保存流程，通过亲自使用发现问题并继续调整。目前已形成 iOS 演示与公开网页版。
 
-## 技术与协作方式
+### 专四备考工作台
 
-`AI Product` `Agent Workflow` `User Research` `SwiftUI` `HealthKit` `TypeScript` `Local-first` `Human-in-the-loop`
+把分散资料、练习入口、提交反馈和错题复习集中到一个网页。本人作为首位使用者，两次正式专四考试成绩由 53 分提高至 69 分。后来继续加入考试日期、目标分、今日可用时间和重考分项估分等设置。个人成绩变化不等同于普遍提分效果。
 
-联系邮箱：[korey2028@gmail.com](mailto:korey2028@gmail.com)
+### DM 角色手册
+
+从《壁上观》胡不为角色的备场和上场查阅需要出发，整理 132 页演员手册与 34 页上场朗读本，按幕次组织上场时机、动作和台词。门店老板已将手册转给其他 DM 复用。原剧本及角色非本人原创。
+
+## 我怎样做产品
+
+1. 先接近实际使用场景，听清楚哪里不方便。
+2. 把问题整理成功能、页面和操作步骤，做出能用的版本。
+3. 亲自使用，也听取他人的反馈，再决定下一步改什么。
+
+Agent 是我的实现工具。需求判断、内容取舍和结果验收由我负责。
+
+## 一线用户经验
+
+- **教练主管。** 提供一对一训练与营养指导，解释训练反馈并持续跟进；参与课程销售，帮助其他教练快速熟悉工作。
+- **剧本杀 DM。** 负责角色演绎、现场互动和流程推进，并把备场中的资料问题做成可复用手册。
+- **个人内容创作。** 运营抖音账号，积累 1.6K+ 粉丝；单条作品最高播放量 26 万、获赞 3.2 万+。评论和私信也让我持续接触用户的真实兴趣与疑问。
+
+## 其他公开项目
+
+- [Storage Analyzer](https://github.com/korey2028-prog/storage-analyzer) 生成微信预览友好的 macOS 存储分析报告。
+- [DOCX Misaligned Columns Fix](https://github.com/korey2028-prog/docx-misaligned-columns-fix) 把文档中用空格或制表符模拟的错位列转换为固定宽度表格。
+- [Life Compound OS](https://github.com/korey2028-prog/life-compound-os) 是围绕学习、训练、营养和恢复的个人工具实验。
+
+## 当前方向
+
+希望继续参与工具型产品、AI 应用和内容产品的需求调研、功能设计与持续改进。相比堆砌功能，我更关心用户能不能看懂、操作是否顺手，以及产品上线后是否真的被使用。
+
+公开页面只展示脱敏后的产品结构与演示内容，不包含私人健康数据、商业剧本原文、付费学习资料或账号凭据。
