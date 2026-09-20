@@ -1,5 +1,9 @@
 # 我是 Korey，王天如
 
+**AI 产品实习 · Agent 工作流 · 内容工具**
+
+[作品集](https://korey2028-prog.github.io/portfolio/) · [简历与项目速读](https://korey2028-prog.github.io/portfolio/resume.html) · [公开小工具](#公开小工具)
+
 天津师范大学英语师范专业，2027 届。
 
 我做过健身教练和剧本杀 DM，也在做自己的工具。下面几个项目分别来自训练、备考和门店工作，都是我自己用得上的东西。
@@ -38,17 +42,22 @@
 
 做教练时也一样。有的会员需要训练建议，有的更想聊聊自己为什么坚持不下去。我习惯多听几句，再判断能帮上什么。
 
-<details>
-<summary>还有几个公开的小工具</summary>
+## 公开小工具
 
-- [Storage Analyzer](https://github.com/korey2028-prog/storage-analyzer) · macOS 存储分析报告，支持在微信里预览。
-- [DOCX Misaligned Columns Fix](https://github.com/korey2028-prog/docx-misaligned-columns-fix) · 整理 Word 文档里用空格或制表符排出的错位列。
-- [Life Compound OS](https://github.com/korey2028-prog/life-compound-os) · 学习、训练和日常记录的个人工具实验。
+除了上面的产品实践，我也把具体问题整理成可以复用的工具：
 
-</details>
+| 项目 | 解决的问题 | 可以查看的实现 |
+| --- | --- | --- |
+| [Storage Analyzer](https://github.com/korey2028-prog/storage-analyzer) | 本地 HTML 报告在微信预览中空白或错位 | Python 扫描、生成期静态渲染、移动端兼容与降级处理 |
+| [DOCX Misaligned Columns Fix](https://github.com/korey2028-prog/docx-misaligned-columns-fix) | Word 里用 Tab 和空格排出的选项列容易错位 | 固定列宽表格、字体测宽、保存后修补与文档差异核验 |
+| [Life Compound OS](https://github.com/korey2028-prog/life-compound-os) | 学习、训练与日常复盘分散在不同入口 | 无登录的静态 MVP、浏览器本地记录与 Markdown 导出 |
+
+这些仓库可以查看源码；上面的三个代表作品以演示和案例为入口，不代表全部原始资料或实现都已开源。
+
 
 ## 想继续做什么
 
 我想找产品相关的实习，继续做日常工作中用得上的工具，也想了解多人协作时会遇到哪些新问题。期待和愿意交流、愿意动手尝试的人一起工作。
 
 [联系我](mailto:korey2028@gmail.com)
+
