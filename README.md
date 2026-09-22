@@ -10,6 +10,12 @@
 
 我喜欢先做出来，亲自用一用，看看哪里还不顺手，再继续改。
 
+## 项目展示
+
+- **Fitness OS｜训练与饮食记录工具**：[查看展示页](https://fitness-os-korey.korey2028798753.chatgpt.site)
+- **专四备考工作台｜练习与复习工具**：[查看展示页](https://korey-tem4-workbench.korey2028798753.chatgpt.site)
+- **DM 角色手册｜备场与临场查阅工具**：[查看展示页](https://korey-dm-handbook.korey2028798753.chatgpt.site)
+
 ## 最近在做的东西
 
 ### Fitness OS · 把训练记录放到一起
