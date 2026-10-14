@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/korey-silver-banner.svg" alt="Korey — AI Product · Learning · Creative Systems" width="100%"></p>
+
 # 我是 Korey，王天如
 
 **AI 产品实习 · Agent 工作流 · 内容工具**
