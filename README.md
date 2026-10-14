@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/korey-silver-banner.svg" alt="Korey — AI Product · Learning · Creative Systems" width="100%"></p>
+<p align="center"><img src="assets/korey-silver-banner.svg" alt="KOREY WANG TIANRU — Product Manager" width="100%"></p>
 
-# 我是 Korey，王天如
+# KOREY WANG TIANRU
 
-**AI 产品实习 · Agent 工作流 · 内容工具**
+**产品经理｜用户研究 · Agent 工作流 · 产品交付**
 
-[作品集](https://korey2028-prog.github.io/portfolio/) · [简历与项目速读](https://korey2028-prog.github.io/portfolio/resume.html) · [公开小工具](#公开小工具)
+[作品集](https://korey2028.tech/) · [简历与项目速读](https://korey2028.tech/resume.html) · [公开小工具](#公开小工具)
 
 天津师范大学英语师范专业，2027 届。
 
@@ -14,9 +14,9 @@
 
 ## 项目展示
 
-- **Fitness OS｜训练与饮食记录工具**：[查看展示页](https://fitness-os-korey.korey2028798753.chatgpt.site)
-- **专四备考工作台｜练习与复习工具**：[查看展示页](https://korey-tem4-workbench.korey2028798753.chatgpt.site)
-- **DM 角色手册｜备场与临场查阅工具**：[查看展示页](https://korey-dm-handbook.korey2028798753.chatgpt.site)
+- **Fitness OS｜训练与饮食记录工具**：[查看产品案例](https://korey2028.tech/work/fitness-os.html)
+- **专四备考工作台｜练习与复习工具**：[查看产品案例](https://korey2028.tech/work/tem4.html)
+- **DM 角色手册｜备场与临场查阅工具**：[查看产品案例](https://korey2028.tech/work/dm-rehearsal.html)
 
 ## 最近在做的东西
 
@@ -26,7 +26,7 @@
 
 我负责需求、页面和操作流程，使用 Agent 辅助实现。目前有 iOS 演示和公开网页版，两版功能有所区别。
 
-[打开 Fitness OS](https://fitness-os-korey.korey2028798753.chatgpt.site)
+[打开 Fitness OS](https://korey2028.tech/work/fitness-os.html)
 
 ### 专四备考工作台 · 自己是第一个使用者
 
@@ -34,7 +34,7 @@
 
 后来又补了考试日期、目标分和每天能学多久的设置。重考时还可以填各部分的估分，帮助判断下一步先练哪里。
 
-[打开备考工作台](https://korey-tem4-workbench.korey2028798753.chatgpt.site)
+[打开备考工作台](https://korey2028.tech/work/tem4.html)
 
 ### DM 角色手册 · 从自己备场，到同事复用
 
@@ -42,13 +42,11 @@
 
 **门店老板后来把手册转给了其他 DM 复用。** 我负责资料整理、查阅顺序和展示页面，原剧本及角色非本人原创。
 
-[查看手册展示](https://korey-dm-handbook.korey2028798753.chatgpt.site)
+[查看手册展示](https://korey2028.tech/work/dm-rehearsal.html)
 
-## 工作之外，我也做内容
+## 数据成果
 
-我在抖音有 **1.6K+ 粉丝**，单条作品最高 **26 万播放、3.2 万+点赞**。评论里有人问腿怎么练，也有人想了解怎样在线下见到我。这些具体的问题，让我想继续了解屏幕另一边的人究竟需要什么。
-
-做教练时也一样。有的会员需要训练建议，有的更想聊聊自己为什么坚持不下去。我习惯多听几句，再判断能帮上什么。
+内容累计 **2.17K+ 粉丝**；单条内容最高 **31 万+播放**，单条内容最高 **4.1 万+点赞**。
 
 ## 公开小工具
 
@@ -65,7 +63,7 @@
 
 ## 想继续做什么
 
-我想找产品相关的实习，继续做日常工作中用得上的工具，也想了解多人协作时会遇到哪些新问题。期待和愿意交流、愿意动手尝试的人一起工作。
+我希望继续作为产品经理，把真实场景中的问题推进为可用、可验证的产品，也想在多人协作中承担更完整的需求、取舍与交付责任。
 
 [联系我](mailto:korey2028@gmail.com)
 
